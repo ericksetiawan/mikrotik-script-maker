@@ -25,4 +25,4 @@ This program runs on Windows XP or later
 
 
 ##Credits
-![Credits](https://github.com/ericksetiawan/mikrotik-script-maker/blob/master/screenshots/MikrotikScriptMakerv3-Main.png?raw=true)
+![Credits](https://github.com/ericksetiawan/mikrotik-script-maker/blob/master/screenshots/MikrotikScriptMakerv3-About.png?raw=true)
